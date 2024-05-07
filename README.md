@@ -16,7 +16,7 @@ pip install django
 ## Setup
 
 1. Clone the repository:
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/kibeert/didactic-octo-enigma.email
 
 2. Navigate to the project directory:
 cd django-email-sending-example
