@@ -11,15 +11,15 @@ Before you start, make sure you have the following installed:
 - Django
 
 You can install Django using pip:
-pip install django
+`pip install django`
 
 ## Setup
 
 1. Clone the repository:
-git clone https://github.com/kibeert/didactic-octo-enigma.email
+`git clone https://github.com/kibeert/didactic-octo-enigma.email`
 
 2. Navigate to the project directory:
-cd django-email-sending-example
+`cd django-email-sending-example`
 
 ## Configuration
 
@@ -58,7 +58,7 @@ You can include this code in your Django views, management commands, or other pa
 
 ## Running the Project
 To run the Django project, use the following command:
-python manage.py runserver
+`python manage.py runserver`
 Once the development server is running, you can access the project in your web browser at http://127.0.0.1:8000/.
 
 ## Further Reading
